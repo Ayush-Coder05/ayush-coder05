@@ -20,6 +20,11 @@ Currently Building: E-Commerce Mobile App
 Learning: React Native, Firebase, Backend Development
 Passion: Coding, Problem Solving & App Development
 ```
+<p align="center">
+<a href="https://www.linkedin.com/in/ayush-coder/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh%20Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ### 🎯 Current Goals
 
